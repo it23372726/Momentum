@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "131643836397",
+    "project_id": "momentum-aba3c",
+    "storage_bucket": "momentum-aba3c.firebasestorage.app"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:131643836397:android:ce22a6dabb7d0ad9c049e4",
+        "android_client_info": {
+          "package_name": "com.example.projectpbd"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBL7TJvTSmbZ23W49-ypo2yem-fUH_G1Qk"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
